@@ -1,0 +1,13 @@
+const User = require("./user.model");
+const publicUser = (doc) => { if (!doc) return null; const obj = doc.toObject ? doc.toObject() : { ...doc }; delete obj.passwordHash; delete obj.password; return obj; };
+const buildFilter = (q = {}) => { const f = {}; ["role", "storeCode", "status", "email", "employeeCode"].forEach(k => { if (q[k]) f[k] = q[k]; }); if (q.search) f.$or = [{name: new RegExp(q.search, 'i')},{email: new RegExp(q.search, 'i')},{employeeCode: new RegExp(q.search, 'i')}]; return f; };
+const create = async (payload) => { const passwordHash = await User.hashPassword(payload.password || payload.auth?.defaultPassword || 'Password@123'); const doc = await User.create({ ...payload, email: payload.email?.toLowerCase(), password: undefined, passwordHash, loginEnabled: payload.auth?.loginEnabled ?? payload.loginEnabled ?? true }); return publicUser(doc); };
+const bulkCreate = async (records=[]) => { const out=[]; for (const r of records) out.push(await createOrUpdate(r)); return out; };
+const createOrUpdate = async (payload) => { const keys = [{userId:payload.userId},{email:payload.email?.toLowerCase()},{employeeCode:payload.employeeCode},{loginId:payload.loginId}].filter(x=>Object.values(x)[0]); const existing = keys.length ? await User.findOne({$or:keys}) : null; const passwordHash = await User.hashPassword(payload.password || payload.auth?.defaultPassword || 'Password@123'); const clean = {...payload, email:payload.email?.toLowerCase(), password: undefined, passwordHash, loginEnabled: payload.auth?.loginEnabled ?? payload.loginEnabled ?? true}; delete clean._id; if (existing) { await User.updateOne({_id:existing._id}, {$set:clean}); return publicUser(await User.findById(existing._id)); } return publicUser(await User.create(clean)); };
+const findAll = (q) => User.find(buildFilter(q)).select('-passwordHash').sort({role:1, storeCode:1, name:1});
+const findById = (id) => User.findById(id).select('-passwordHash');
+const update = (id, payload) => { delete payload.password; delete payload.passwordHash; delete payload._id; return User.findByIdAndUpdate(id, payload, {new:true}).select('-passwordHash'); };
+const setStatus = (id, status) => User.findByIdAndUpdate(id, {status, isActive: status === 'ACTIVE'}, {new:true}).select('-passwordHash');
+const resetPassword = async (id, password='Password@123') => User.findByIdAndUpdate(id, {passwordHash: await User.hashPassword(password), mustChangePassword:true}, {new:true}).select('-passwordHash');
+const remove = (id) => User.findByIdAndDelete(id);
+module.exports = { publicUser, create, bulkCreate, createOrUpdate, findAll, findById, update, setStatus, resetPassword, remove };

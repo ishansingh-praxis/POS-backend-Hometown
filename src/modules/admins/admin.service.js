@@ -1,0 +1,11 @@
+const User = require("./admin.model");
+const userService = require("../users/user.service");
+const list = (q={}) => User.find({ role: "ADMIN", ...(q.storeCode ? {storeCode:q.storeCode} : {}), ...(q.status ? {status:q.status} : {}) }).select('-passwordHash').sort({storeCode:1,name:1});
+const getById = (id) => User.findById(id).select('-passwordHash');
+const create = (payload) => userService.create({...payload, role:"ADMIN", posRole:"ADMIN"});
+const bulkCreate = (records=[]) => userService.bulkCreate(records.map(r=>({...r, role:"ADMIN", posRole:"ADMIN"})));
+const update = (id,payload) => userService.update(id,payload);
+const patchStatus = (id,status) => userService.setStatus(id,status);
+const resetPassword = (id,password) => userService.resetPassword(id,password);
+const remove = (id) => userService.remove(id);
+module.exports = { list, getById, create, bulkCreate, update, patchStatus, resetPassword, remove };

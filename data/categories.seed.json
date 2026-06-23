@@ -1,0 +1,66 @@
+[
+  {
+    "_id": {
+      "$oid": "2b69286fac4c0b2f1e709f15"
+    },
+    "categoryId": "CAT-FURNITURE",
+    "name": "Furniture",
+    "slug": "furniture",
+    "status": "ACTIVE",
+    "children": [
+      "Sofas",
+      "Beds",
+      "Dining",
+      "Living Room",
+      "Storage Cabinets",
+      "Wardrobes",
+      "Mattresses",
+      "Kids Beds"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a5c8237ca9a6a84d3dc3ada6"
+    },
+    "categoryId": "CAT-DECOR",
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "status": "ACTIVE",
+    "children": [
+      "Lighting",
+      "Vases",
+      "Decor",
+      "Wall Art"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "bda7e77de81d0ae331efebc3"
+    },
+    "categoryId": "CAT-FURNISHING",
+    "name": "Home Furnishing",
+    "slug": "home-furnishing",
+    "status": "ACTIVE",
+    "children": [
+      "Rugs",
+      "Curtains",
+      "Bedding",
+      "Bath"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "fe64bd3d2ab8832adaba1ac9"
+    },
+    "categoryId": "CAT-KITCHEN",
+    "name": "Kitchen & Appliances",
+    "slug": "kitchen-appliances",
+    "status": "ACTIVE",
+    "children": [
+      "Cookware",
+      "Drinkware",
+      "Serveware",
+      "Storage"
+    ]
+  }
+]

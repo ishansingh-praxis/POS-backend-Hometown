@@ -1,0 +1,80 @@
+[
+  {
+    "_id": {
+      "$oid": "0da9fe973af0dc27ede4632c"
+    },
+    "loginId": "LOGIN-ADMIN-KAILASH",
+    "userId": "USER-POS-ADMIN-KAILASH",
+    "employeeCode": "ADMIN-KAILASH",
+    "username": "kailash.vaishanv@praxisretail.in",
+    "email": "kailash.vaishanv@praxisretail.in",
+    "password": "Password@123",
+    "name": "KAILASH",
+    "role": "ADMIN",
+    "posRole": "ADMIN",
+    "loginType": "EMAIL_PASSWORD",
+    "siteId": "9550",
+    "location": "MUMBAI",
+    "isActive": true,
+    "status": "ACTIVE",
+    "permissions": [
+      "POS_LOGIN",
+      "ADMIN_DASHBOARD_VIEW",
+      "ALL_STORE_VIEW",
+      "USER_MANAGE",
+      "MANAGER_MANAGE",
+      "CASHIER_MANAGE",
+      "STORE_MANAGE",
+      "PRODUCT_MANAGE",
+      "INVENTORY_MANAGE",
+      "ORDER_MANAGE",
+      "PAYMENT_VIEW",
+      "INVOICE_VIEW",
+      "REPORT_VIEW",
+      "SETTINGS_MANAGE"
+    ],
+    "createdAt": "2026-06-17T12:09:17",
+    "updatedAt": "2026-06-17T12:12:02",
+    "mongoObjectId": "0da9fe973af0dc27ede4632c",
+    "objectIdStrategy": "Fresh unique MongoDB ObjectId; not copied from employee, manager, cashier, userId, or old source _id"
+  },
+  {
+    "_id": {
+      "$oid": "f3d9e82f52638be6abfed6ba"
+    },
+    "loginId": "LOGIN-ADMIN-PUNIT",
+    "userId": "USER-POS-ADMIN-PUNIT",
+    "employeeCode": "ADMIN-PUNIT",
+    "username": "punit.singh@praxisretail.in",
+    "email": "punit.singh@praxisretail.in",
+    "password": "Password@123",
+    "name": "PUNIT PRAKASH SINGH",
+    "role": "ADMIN",
+    "posRole": "ADMIN",
+    "loginType": "EMAIL_PASSWORD",
+    "siteId": "9550",
+    "location": "MUMBAI",
+    "isActive": true,
+    "status": "ACTIVE",
+    "permissions": [
+      "POS_LOGIN",
+      "ADMIN_DASHBOARD_VIEW",
+      "ALL_STORE_VIEW",
+      "USER_MANAGE",
+      "MANAGER_MANAGE",
+      "CASHIER_MANAGE",
+      "STORE_MANAGE",
+      "PRODUCT_MANAGE",
+      "INVENTORY_MANAGE",
+      "ORDER_MANAGE",
+      "PAYMENT_VIEW",
+      "INVOICE_VIEW",
+      "REPORT_VIEW",
+      "SETTINGS_MANAGE"
+    ],
+    "createdAt": "2026-06-17T12:09:17",
+    "updatedAt": "2026-06-17T12:12:02",
+    "mongoObjectId": "f3d9e82f52638be6abfed6ba",
+    "objectIdStrategy": "Fresh unique MongoDB ObjectId; not copied from employee, manager, cashier, userId, or old source _id"
+  }
+]

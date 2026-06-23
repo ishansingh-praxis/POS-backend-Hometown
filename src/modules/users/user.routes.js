@@ -1,0 +1,12 @@
+const express = require("express");
+const c = require("./user.controller");
+const router = express.Router();
+router.get("/", c.list);
+router.post("/", c.create);
+router.post("/bulk", c.bulk);
+router.get("/:id", c.get);
+router.put("/:id", c.update);
+router.patch("/:id/status", c.status);
+router.patch("/:id/reset-password", c.resetPassword);
+router.delete("/:id", c.remove);
+module.exports = router;

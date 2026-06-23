@@ -1,0 +1,33 @@
+{
+  "name": "hometown-pos-complete-backend",
+  "version": "1.0.0",
+  "description": "Complete modular Node.js Express MongoDB backend for HomeTown POS React frontend",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "seed": "node src/scripts/seedAll.js",
+    "seed:users": "node src/scripts/seedUsers.js",
+    "seed:pos-logins": "node src/scripts/seedPosLogins.js",
+    "import:coupons": "node src/scripts/importCouponData.js",
+    "import:atp-inventory": "node src/scripts/importRealAtpInventory.js",
+    "import:products-images": "node src/scripts/importProductsWithImages.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.3.0",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

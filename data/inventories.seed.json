@@ -1,0 +1,2552 @@
+[
+  {
+    "_id": {
+      "$oid": "c7d69a08aa124cf36410efa2"
+    },
+    "inventoryId": "INV-6036-HT-SF-001",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "735f645d898e3f41f884f7ed"
+    },
+    "inventoryId": "INV-6036-HT-SF-014",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0fd8eeb0d1862b0e7a8aaabc"
+    },
+    "inventoryId": "INV-6036-HT-BD-021",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c0bfb969b8aa61dc40ad73f0"
+    },
+    "inventoryId": "INV-6036-HT-BD-033",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4d1d0e8b711da52422054922"
+    },
+    "inventoryId": "INV-6036-HT-DN-007",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "86f4aa7b282795905e8a10ce"
+    },
+    "inventoryId": "INV-6036-HT-DN-019",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "afa7d950ebb3994434e08e0a"
+    },
+    "inventoryId": "INV-6036-HT-LT-002",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0b9f46f4fddaca1d06053a6e"
+    },
+    "inventoryId": "INV-6036-HT-LT-011",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c1f869869a33acd9cb1acf58"
+    },
+    "inventoryId": "INV-6036-HT-DC-045",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "77c04607fced0bf0fbd5dc84"
+    },
+    "inventoryId": "INV-6036-HT-DC-052",
+    "storeCode": "6036",
+    "storeName": "Ht Bhubaneshwar Janpath",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "00be2d8b91f03b82bb239b4f"
+    },
+    "inventoryId": "INV-6063-HT-SF-001",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d9c92bda4a4e3f6f33f925c2"
+    },
+    "inventoryId": "INV-6063-HT-SF-014",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0731953210f7da6711e4acb2"
+    },
+    "inventoryId": "INV-6063-HT-BD-021",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d09a1483f8be12d546c8369f"
+    },
+    "inventoryId": "INV-6063-HT-BD-033",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "a3deed52bddf5375aa893325"
+    },
+    "inventoryId": "INV-6063-HT-DN-007",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "ec8e6acfb1637d09ab392db5"
+    },
+    "inventoryId": "INV-6063-HT-DN-019",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "411b28f23d12c314111daef2"
+    },
+    "inventoryId": "INV-6063-HT-LT-002",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "af048304987bb2c97eec6621"
+    },
+    "inventoryId": "INV-6063-HT-LT-011",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "650ebcb53b9bb349269cd8a4"
+    },
+    "inventoryId": "INV-6063-HT-DC-045",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "a77c96edac7face30729eb96"
+    },
+    "inventoryId": "INV-6063-HT-DC-052",
+    "storeCode": "6063",
+    "storeName": "Ht-Nashik City Center Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "31f92cb22424ae2564fd949a"
+    },
+    "inventoryId": "INV-6068-HT-SF-001",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "b8252c11223a02d396fb3e76"
+    },
+    "inventoryId": "INV-6068-HT-SF-014",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "edb3368a3608d7d9ab17704f"
+    },
+    "inventoryId": "INV-6068-HT-BD-021",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "88aa651558495092513a536e"
+    },
+    "inventoryId": "INV-6068-HT-BD-033",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "bbaff593af068854754c3ec9"
+    },
+    "inventoryId": "INV-6068-HT-DN-007",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4ebef5dd23750871c164289d"
+    },
+    "inventoryId": "INV-6068-HT-DN-019",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "abd0e03c640213b2d56aa6be"
+    },
+    "inventoryId": "INV-6068-HT-LT-002",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "952ec29feb6585609dd188c1"
+    },
+    "inventoryId": "INV-6068-HT-LT-011",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c4159b0214b957ddd81b0629"
+    },
+    "inventoryId": "INV-6068-HT-DC-045",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "618b26667b5b4b886b7c8edb"
+    },
+    "inventoryId": "INV-6068-HT-DC-052",
+    "storeCode": "6068",
+    "storeName": "Ht Aurangabad-Prozone Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "df06e8a85dc703db4a437b0a"
+    },
+    "inventoryId": "INV-6095-HT-SF-001",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "321e71d02b91d1da0f29a952"
+    },
+    "inventoryId": "INV-6095-HT-SF-014",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "091d973f22262bd00de1c7bb"
+    },
+    "inventoryId": "INV-6095-HT-BD-021",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "da713245480e000387ec3063"
+    },
+    "inventoryId": "INV-6095-HT-BD-033",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "5af82a505dc78e3d7e0b066d"
+    },
+    "inventoryId": "INV-6095-HT-DN-007",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e411dea7ce40ad0749f9fd91"
+    },
+    "inventoryId": "INV-6095-HT-DN-019",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0c1d39cde710322c1ec5d57b"
+    },
+    "inventoryId": "INV-6095-HT-LT-002",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c34ef893de035c30353ccec4"
+    },
+    "inventoryId": "INV-6095-HT-LT-011",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "a8ebe574b68525fec124a5c1"
+    },
+    "inventoryId": "INV-6095-HT-DC-045",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "2410dcd58d261ca39527e841"
+    },
+    "inventoryId": "INV-6095-HT-DC-052",
+    "storeCode": "6095",
+    "storeName": "Ht-Vizag Cmr Central Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "9fa665a9a9c54bee71b9a404"
+    },
+    "inventoryId": "INV-6098-HT-SF-001",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0c7cd03ae3419061aafadc22"
+    },
+    "inventoryId": "INV-6098-HT-SF-014",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "559505d7f95a8a5686c5612a"
+    },
+    "inventoryId": "INV-6098-HT-BD-021",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c809b3a345eb5b53cd7a403c"
+    },
+    "inventoryId": "INV-6098-HT-BD-033",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "dc07da7f01c79eba1e79e0d2"
+    },
+    "inventoryId": "INV-6098-HT-DN-007",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "89f87ae7248a63de4999c887"
+    },
+    "inventoryId": "INV-6098-HT-DN-019",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4641e3110a770def95ba2c58"
+    },
+    "inventoryId": "INV-6098-HT-LT-002",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "72d2ac0b036b3a1cf44bef67"
+    },
+    "inventoryId": "INV-6098-HT-LT-011",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "68629ef458a79f678bc0538d"
+    },
+    "inventoryId": "INV-6098-HT-DC-045",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "94e5b67c46e5b0193a72cbaf"
+    },
+    "inventoryId": "INV-6098-HT-DC-052",
+    "storeCode": "6098",
+    "storeName": "Ht-Guwahati Lachit Nagar",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c6009014549afdb2fd41a734"
+    },
+    "inventoryId": "INV-6139-HT-SF-001",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d9570a3137228c396629ea62"
+    },
+    "inventoryId": "INV-6139-HT-SF-014",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c6a96c47123c0b3e74abf140"
+    },
+    "inventoryId": "INV-6139-HT-BD-021",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4d58a7b0262dde1e929c28d4"
+    },
+    "inventoryId": "INV-6139-HT-BD-033",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e8716a001312a97678de1628"
+    },
+    "inventoryId": "INV-6139-HT-DN-007",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "1f40934f49678fdfc15fbb6a"
+    },
+    "inventoryId": "INV-6139-HT-DN-019",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "79d8a86c401952b32ad90f5d"
+    },
+    "inventoryId": "INV-6139-HT-LT-002",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "ad50decea8086e47852640b9"
+    },
+    "inventoryId": "INV-6139-HT-LT-011",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "eddd1a31261d30f354663955"
+    },
+    "inventoryId": "INV-6139-HT-DC-045",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "888ad2a1b96d3b06fb0ca70d"
+    },
+    "inventoryId": "INV-6139-HT-DC-052",
+    "storeCode": "6139",
+    "storeName": "Ht-Patna-Bhavya Iconic Tower",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "097b6ec96155f6d3385088d1"
+    },
+    "inventoryId": "INV-6140-HT-SF-001",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "a95c940a8870f93136b329c6"
+    },
+    "inventoryId": "INV-6140-HT-SF-014",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e95b2c2a5fb79be3ba0002c4"
+    },
+    "inventoryId": "INV-6140-HT-BD-021",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "30131f463671dd3bbaaae643"
+    },
+    "inventoryId": "INV-6140-HT-BD-033",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "2838865d376e410aeceb13b0"
+    },
+    "inventoryId": "INV-6140-HT-DN-007",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "3da4784363dd86b810e945e2"
+    },
+    "inventoryId": "INV-6140-HT-DN-019",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "118b7a3b096b916410c0046c"
+    },
+    "inventoryId": "INV-6140-HT-LT-002",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "aaf8b84455f37d113406e5d1"
+    },
+    "inventoryId": "INV-6140-HT-LT-011",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d21003763f5b87d6d40781b0"
+    },
+    "inventoryId": "INV-6140-HT-DC-045",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "374988ce4f93999af50ab691"
+    },
+    "inventoryId": "INV-6140-HT-DC-052",
+    "storeCode": "6140",
+    "storeName": "Ht-Lucknow-Gomti Nagar",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "02aafc78069a3de053e9cdf1"
+    },
+    "inventoryId": "INV-6144-HT-SF-001",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "599f4e764e7752cc6931e810"
+    },
+    "inventoryId": "INV-6144-HT-SF-014",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "51b264f8375c1e08314738c0"
+    },
+    "inventoryId": "INV-6144-HT-BD-021",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "961b9c00ba9dd2c5d72db547"
+    },
+    "inventoryId": "INV-6144-HT-BD-033",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "64fc4eca5af5bd763660364b"
+    },
+    "inventoryId": "INV-6144-HT-DN-007",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "71c370aa8da23bd77a80fbe8"
+    },
+    "inventoryId": "INV-6144-HT-DN-019",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "3dab67db8f41da853c5fa093"
+    },
+    "inventoryId": "INV-6144-HT-LT-002",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c5a3d41596b1de1f4562fec9"
+    },
+    "inventoryId": "INV-6144-HT-LT-011",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "5da917956a24ca3bc6d55b70"
+    },
+    "inventoryId": "INV-6144-HT-DC-045",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4195c924d424c4dac13c584f"
+    },
+    "inventoryId": "INV-6144-HT-DC-052",
+    "storeCode": "6144",
+    "storeName": "Ht-Raipur-Lal ganga",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "158216c13a42497b8b982c81"
+    },
+    "inventoryId": "INV-6150-HT-SF-001",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "fb5a5d614356aeffb85557b0"
+    },
+    "inventoryId": "INV-6150-HT-SF-014",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "f5d092ba52f68583166b1763"
+    },
+    "inventoryId": "INV-6150-HT-BD-021",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "72651a5306717dc241abd7a5"
+    },
+    "inventoryId": "INV-6150-HT-BD-033",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "decb392893dfdf2f1d57c822"
+    },
+    "inventoryId": "INV-6150-HT-DN-007",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "ddf4c8a6e5ae9633a9950bdd"
+    },
+    "inventoryId": "INV-6150-HT-DN-019",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "730a05b79844e49767acfed8"
+    },
+    "inventoryId": "INV-6150-HT-LT-002",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "8c1e2a947b7c2d974c54f897"
+    },
+    "inventoryId": "INV-6150-HT-LT-011",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "1b3d047adaac8f779fed4a2a"
+    },
+    "inventoryId": "INV-6150-HT-DC-045",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "eece81e5675b24664b64f971"
+    },
+    "inventoryId": "INV-6150-HT-DC-052",
+    "storeCode": "6150",
+    "storeName": "Ht-Pune Seasons Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4580259c9d7ffe3c2dc92002"
+    },
+    "inventoryId": "INV-6343-HT-SF-001",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "1d36e8203fcf416c562fabc1"
+    },
+    "inventoryId": "INV-6343-HT-SF-014",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "10be1b6a0333d9dfc1c81eab"
+    },
+    "inventoryId": "INV-6343-HT-BD-021",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "f78e79138f9a4354649ba691"
+    },
+    "inventoryId": "INV-6343-HT-BD-033",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "add845e714eaaff11dd60533"
+    },
+    "inventoryId": "INV-6343-HT-DN-007",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "21b3409adb310fe0053366bf"
+    },
+    "inventoryId": "INV-6343-HT-DN-019",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "39981fc887dc9df1c542fa97"
+    },
+    "inventoryId": "INV-6343-HT-LT-002",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "8457cfe09642ef70b0d48c60"
+    },
+    "inventoryId": "INV-6343-HT-LT-011",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "f856621860571e804b4880b7"
+    },
+    "inventoryId": "INV-6343-HT-DC-045",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "30b14621894c9415ac940753"
+    },
+    "inventoryId": "INV-6343-HT-DC-052",
+    "storeCode": "6343",
+    "storeName": "Ht-Exp Nagpur Wardha Road",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e5d1e6b2810d1b8b6e790eba"
+    },
+    "inventoryId": "INV-6346-HT-SF-001",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "019b0acb2147554dd457bae0"
+    },
+    "inventoryId": "INV-6346-HT-SF-014",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "3219829646797da302a80a29"
+    },
+    "inventoryId": "INV-6346-HT-BD-021",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e81abf3a8820a44fc3b70219"
+    },
+    "inventoryId": "INV-6346-HT-BD-033",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "44f7c8510d82bc7b28721656"
+    },
+    "inventoryId": "INV-6346-HT-DN-007",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d349705a77ffaec620444cff"
+    },
+    "inventoryId": "INV-6346-HT-DN-019",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4666af4f4cae1301e99f2b36"
+    },
+    "inventoryId": "INV-6346-HT-LT-002",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "38d2c59fe10e064fbcbe699a"
+    },
+    "inventoryId": "INV-6346-HT-LT-011",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "98ed46d1adafa82e5844945e"
+    },
+    "inventoryId": "INV-6346-HT-DC-045",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e7c849ff624498630c286471"
+    },
+    "inventoryId": "INV-6346-HT-DC-052",
+    "storeCode": "6346",
+    "storeName": "Ht-Siliguri",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "88f68c060da2257584116f45"
+    },
+    "inventoryId": "INV-6352-HT-SF-001",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "fc3d7886cf7918706731c04c"
+    },
+    "inventoryId": "INV-6352-HT-SF-014",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "91a6f25e71d717e756cd4663"
+    },
+    "inventoryId": "INV-6352-HT-BD-021",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "88dfc935caeb29d681e71833"
+    },
+    "inventoryId": "INV-6352-HT-BD-033",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0fd7d89b1caa0036696e201b"
+    },
+    "inventoryId": "INV-6352-HT-DN-007",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "69e0ec8864ae5587cc0ea482"
+    },
+    "inventoryId": "INV-6352-HT-DN-019",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "defa390783b5777672f5bbc5"
+    },
+    "inventoryId": "INV-6352-HT-LT-002",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "da744b6d5c604d0e0638a177"
+    },
+    "inventoryId": "INV-6352-HT-LT-011",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "13264ad7d6dc679bce3f42c4"
+    },
+    "inventoryId": "INV-6352-HT-DC-045",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "2a72eff16e7b8917d8cc7908"
+    },
+    "inventoryId": "INV-6352-HT-DC-052",
+    "storeCode": "6352",
+    "storeName": "Ht-Kol-Bhavanipur Homeland",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "dbbcb995a898c430e6b9be84"
+    },
+    "inventoryId": "INV-6357-HT-SF-001",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "31abdfba1c9848f7a01c0ca6"
+    },
+    "inventoryId": "INV-6357-HT-SF-014",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "5d8abed533ce03c935404ece"
+    },
+    "inventoryId": "INV-6357-HT-BD-021",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "1ba65de66d9515fe9185107c"
+    },
+    "inventoryId": "INV-6357-HT-BD-033",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "d1a0d5785d37f2f32e3db0b1"
+    },
+    "inventoryId": "INV-6357-HT-DN-007",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "b90bc50196fb498edb4b3400"
+    },
+    "inventoryId": "INV-6357-HT-DN-019",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "3562e08c7e704f16412115fa"
+    },
+    "inventoryId": "INV-6357-HT-LT-002",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "7e53bf443b7f576c8ab97694"
+    },
+    "inventoryId": "INV-6357-HT-LT-011",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "5ef31d9e722127f6107ff528"
+    },
+    "inventoryId": "INV-6357-HT-DC-045",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e875cd8d70c9e59503e0ec04"
+    },
+    "inventoryId": "INV-6357-HT-DC-052",
+    "storeCode": "6357",
+    "storeName": "Ht-Kolkata-Dcn Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "0a4621b15283f62a3202b747"
+    },
+    "inventoryId": "INV-6501-HT-SF-001",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "63a6e8d29227affd15caa64f"
+    },
+    "inventoryId": "INV-6501-HT-SF-014",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "ac40f14d02eaf0a4e68f1f04"
+    },
+    "inventoryId": "INV-6501-HT-BD-021",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "c06c5899c9fb0b7a7ee22be4"
+    },
+    "inventoryId": "INV-6501-HT-BD-033",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "4ced70916d86a24e3b1707a8"
+    },
+    "inventoryId": "INV-6501-HT-DN-007",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "45fd0e8763e07cbdec036ea4"
+    },
+    "inventoryId": "INV-6501-HT-DN-019",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "04e3b366a6f8a99f4fad2889"
+    },
+    "inventoryId": "INV-6501-HT-LT-002",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "cd66a552e624cc5097592854"
+    },
+    "inventoryId": "INV-6501-HT-LT-011",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "03a5a4ae7572ab20786dc66c"
+    },
+    "inventoryId": "INV-6501-HT-DC-045",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "e3e8e99af03ba6dbfd3c176c"
+    },
+    "inventoryId": "INV-6501-HT-DC-052",
+    "storeCode": "6501",
+    "storeName": "Ht-Ahmedabad Acropolis Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "7cd9af4bd55846e2b064e1fe"
+    },
+    "inventoryId": "INV-6790-HT-SF-001",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-SF-001",
+    "productName": "Westwood 3-Seater Sofa",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "ce64ec6f2dc4dea3b829807b"
+    },
+    "inventoryId": "INV-6790-HT-SF-014",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-SF-014",
+    "productName": "Lyra Fabric Recliner",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "2e4ce7cb6e32c636b9c75600"
+    },
+    "inventoryId": "INV-6790-HT-BD-021",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-BD-021",
+    "productName": "Oakland Queen Bed",
+    "availableQty": 7,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "9c9451113a8202bd3a3b5dee"
+    },
+    "inventoryId": "INV-6790-HT-BD-033",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-BD-033",
+    "productName": "Aspen King Storage Bed",
+    "availableQty": 8,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "550679b7a17dc48ecd79ad7d"
+    },
+    "inventoryId": "INV-6790-HT-DN-007",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-DN-007",
+    "productName": "Mensa 6-Seater Dining Set",
+    "availableQty": 1,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "29bbb057da6df90d398d74d6"
+    },
+    "inventoryId": "INV-6790-HT-DN-019",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-DN-019",
+    "productName": "Bistro Round Coffee Table",
+    "availableQty": 2,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 0,
+    "minimumStockLevel": 2,
+    "stockStatus": "LOW_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "f14e191a631f05f19ffc905b"
+    },
+    "inventoryId": "INV-6790-HT-LT-002",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-LT-002",
+    "productName": "Nordic Arc Floor Lamp",
+    "availableQty": 3,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "7dd57ed79c36f5a59531c01e"
+    },
+    "inventoryId": "INV-6790-HT-LT-011",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-LT-011",
+    "productName": "Lumen Pendant Light",
+    "availableQty": 4,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "aaac7dd62cdce577dd15a6f8"
+    },
+    "inventoryId": "INV-6790-HT-DC-045",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-DC-045",
+    "productName": "Terracotta Vase Set of 3",
+    "availableQty": 5,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  },
+  {
+    "_id": {
+      "$oid": "b49db6ed148a049c38943dbd"
+    },
+    "inventoryId": "INV-6790-HT-DC-052",
+    "storeCode": "6790",
+    "storeName": "HT Gwalior DD Mall",
+    "sku": "HT-DC-052",
+    "productName": "Hand-Woven Jute Rug 6x4",
+    "availableQty": 6,
+    "reservedQty": 0,
+    "soldQty": 0,
+    "damagedQty": 0,
+    "displayQty": 1,
+    "minimumStockLevel": 2,
+    "stockStatus": "IN_STOCK"
+  }
+]
