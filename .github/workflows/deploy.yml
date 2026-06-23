@@ -5,6 +5,12 @@ on:
     branches: [main]
   workflow_dispatch:
 
+- name: Setup Node.js
+  uses: actions/setup-node@v4
+  with:
+    node-version: 24
+    cache: npm
+
 env:
   AWS_REGION: ${{ vars.AWS_REGION }}
   ECR_REPOSITORY: ${{ vars.ECR_REPOSITORY }}
