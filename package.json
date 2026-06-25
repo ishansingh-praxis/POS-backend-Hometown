@@ -11,7 +11,9 @@
     "seed:pos-logins": "node src/scripts/seedPosLogins.js",
     "import:coupons": "node src/scripts/importCouponData.js",
     "import:atp-inventory": "node src/scripts/importRealAtpInventory.js",
-    "import:products-images": "node src/scripts/importProductsWithImages.js"
+    "import:products-images": "node src/scripts/importProductsWithImages.js",
+    "import:dsr": "node src/modules/dsrSalesFacts/importDsrSalesFacts.js",
+    "import:dsr-storewise": "node src/modules/dsrStorewise/importDsrStorewise.js"
   },
   "dependencies": {
     "@sendgrid/mail": "^8.1.6",

@@ -65,4 +65,7 @@ router.use("/credit-notes", protect, require("../modules/creditNotes/routes"));
 router.use("/pos-returns", protect, require("../modules/posReturns/routes"));
 router.use("/manager-dashboard", protect, require("../modules/managerDashboard/routes"));
 router.use("/admin-dashboard", protect, require("../modules/adminDashboard/routes"));
+router.use("/dsr", protect, require("../modules/dsrSalesFacts/dsrSalesFact.routes"));
+router.use("/dsr-storewise", protect, require("../modules/dsrStorewise/dsrStorewise.routes"));
+
 module.exports = router;
